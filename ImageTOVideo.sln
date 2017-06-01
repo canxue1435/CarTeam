@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageTOVideo", "ImageTOVideo\ImageTOVideo.vcxproj", "{93115553-EB7A-43BC-8FE2-99E73C911280}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "imageToVideo2", "imageToVideo2\imageToVideo2.vcxproj", "{0574692A-17F5-4D7D-BFC6-FA93DB6E32BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{93115553-EB7A-43BC-8FE2-99E73C911280}.Debug|Win32.Build.0 = Debug|Win32
 		{93115553-EB7A-43BC-8FE2-99E73C911280}.Release|Win32.ActiveCfg = Release|Win32
 		{93115553-EB7A-43BC-8FE2-99E73C911280}.Release|Win32.Build.0 = Release|Win32
+		{0574692A-17F5-4D7D-BFC6-FA93DB6E32BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0574692A-17F5-4D7D-BFC6-FA93DB6E32BB}.Debug|Win32.Build.0 = Debug|Win32
+		{0574692A-17F5-4D7D-BFC6-FA93DB6E32BB}.Release|Win32.ActiveCfg = Release|Win32
+		{0574692A-17F5-4D7D-BFC6-FA93DB6E32BB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
