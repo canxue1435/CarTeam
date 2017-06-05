@@ -73,6 +73,8 @@ int main(){
 			}
 		}
 
+		cout << "a" << endl;
+
 		fout.close();
 	}
 }
